@@ -51,4 +51,4 @@
 
 
 ### 윤석열 대통령 (2022~2024)
-*Link : [YOON](https://github.com/AndyKim-Studio/eda_project)
+* Link : [YOON](https://github.com/AndyKim-Studio/eda_project)
